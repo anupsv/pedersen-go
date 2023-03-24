@@ -1,4 +1,4 @@
-module pedersen-go
+module https://github.com/anupsv/pedersen-go
 
 go 1.13
 
